@@ -1,0 +1,4 @@
+doc1 (Alice,read) (Bob,read) (Cathy,append) (Bob,write)
+doc2 (Bob,read) (Alice,append) (Bob,write)
+doc3 (Cathy,write) (Cathy,read)
+doc4 (Alice,read) (Bob,read) (Cathy,read)
